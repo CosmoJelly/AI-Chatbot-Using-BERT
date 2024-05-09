@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hello :)"
+    },
+    {
+      "question": "what is your purpose?",
+      "answer": "To have (limited) knowledge on game design"
+    },
+    {
+      "question": "what are you?",
+      "answer": "I am a chatbot"
+    },
+    {
+      "question": "are you bad?",
+      "answer": "only if you want me to be ;)"
+    },
+    {
+      "question": "are you evil?",
+      "answer": "only if you want me to be ;)"
+    },
+    {
+      "question": "what is blue and red combined?",
+      "answer": "Purple"
+    },
+    {
+      "question": "red+blue",
+      "answer": "purple"
+    },
+    {
+      "question": "who is a bad boy?",
+      "answer": "Abubakar is a bad boy ;)"
+    },
+    {
+      "question": "who is your creator?",
+      "answer": "Waleed Nouman (AKA My God)"
+    },
+    {
+      "question": "what is this book about?",
+      "answer": "This book is about games, all kinds of games: paper-based strategy games and first person shooters, classical board games and glitzy gambling games; math puzzles and professional sports; austere text adventures and giggly teenage party games. This book links these diverse play activities within a common framework-a framework based in game design."
+    },
+    {
+      "question": "what are games?",
+      "answer": "Each person defines games in his own way"
+    },
+    {
+      "question": "Is this book about game development?",
+      "answer": "This book is about game design, not game development."
+    }
+  ]
+}
